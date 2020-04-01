@@ -35,8 +35,8 @@ print(my_string.split('o'));    # gives ['hell', ' w', 'rld!!']
 # Print Formatting
 
 my_string = "Insert another string here: {}".format("INSERT ME!!");
-print(my_string);
+print(my_string);   # Insert another string here: INSERT ME!!
 my_string = "Item one: {}, two: {}".format("dog", "cat");
-print(my_string);
+print(my_string);   # Item one: dog, two: cat
 my_string = "Item one: {x}, two: {y}".format(x = "dog", y = "cat");
-print(my_string);
+print(my_string); # Item one: dog, two: cat
