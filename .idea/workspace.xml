@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4ee0d34b-39fb-4179-a334-4bd1138edd0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/py-level-one/level-one-exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/py-level-one/data-type-exercise.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/py-level-one/control-flow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="906">
+            <state relative-caret-position="1547">
               <caret line="91" column="38" selection-start-line="91" selection-start-column="38" selection-end-line="91" selection-end-column="38" />
             </state>
           </provider>
@@ -53,17 +52,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/py-level-one/functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
+            <state relative-caret-position="816">
               <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/py-level-one/function-exercise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-119">
-              <caret line="116" column="27" selection-start-line="116" selection-start-column="27" selection-end-line="116" selection-end-column="27" />
+            <state relative-caret-position="2669">
+              <caret line="157" column="17" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/py-level-one/codebreaker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -89,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/py-level-one/control-flow.py" />
         <option value="$PROJECT_DIR$/src/py-level-one/functions.py" />
         <option value="$PROJECT_DIR$/src/py-level-one/function-exercise.py" />
+        <option value="$PROJECT_DIR$/src/py-level-one/codebreaker.py" />
       </list>
     </option>
   </component>
@@ -148,7 +157,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.function-exercise">
+  <component name="RunManager" selected="Python.codebreaker">
+    <configuration name="codebreaker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/py-level-one" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/py-level-one/codebreaker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="control-flow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,35 +268,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuples_sets_booleans" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-basics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/py-level-one" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/py-level-one/tuples_sets_booleans.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.codebreaker" />
         <item itemvalue="Python.function-exercise" />
         <item itemvalue="Python.functions" />
         <item itemvalue="Python.control-flow" />
         <item itemvalue="Python.level-one-exercise" />
-        <item itemvalue="Python.tuples_sets_booleans" />
       </list>
     </recent_temporary>
   </component>
@@ -282,12 +291,13 @@
       <workItem from="1585859784557" duration="4795000" />
       <workItem from="1585897539726" duration="4323000" />
       <workItem from="1585928186765" duration="5372000" />
-      <workItem from="1585976472166" duration="7979000" />
+      <workItem from="1585976472166" duration="16518000" />
+      <workItem from="1586018238057" duration="2269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22469000" />
+    <option name="totallyTimeSpent" value="33277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-8" width="1317" height="784" extended-state="6" />
@@ -313,7 +323,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" internal_type="SLIDING" order="5" type="SLIDING" visible="true" weight="0.3945903" />
+      <window_info anchor="right" id="Run" internal_type="SLIDING" order="5" type="SLIDING" weight="0.7104216" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,8 +332,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_basics$control_flow.coverage" NAME="control-flow Coverage Results" MODIFIED="1585901918540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py-level-one" />
     <SUITE FILE_PATH="coverage/python_basics$main.coverage" NAME="main Coverage Results" MODIFIED="1585860781383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py-level-one" />
+    <SUITE FILE_PATH="coverage/python_basics$codebreaker.coverage" NAME="codebreaker Coverage Results" MODIFIED="1586021757317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py-level-one" />
     <SUITE FILE_PATH="coverage/python_basics$level_one_exercise.coverage" NAME="level-one-exercise Coverage Results" MODIFIED="1585863330840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py-level-one" />
-    <SUITE FILE_PATH="coverage/python_basics$function_exercise.coverage" NAME="function-exercise Coverage Results" MODIFIED="1585997257905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py-level-one" />
+    <SUITE FILE_PATH="coverage/python_basics$function_exercise.coverage" NAME="function-exercise Coverage Results" MODIFIED="1586000302415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py-level-one" />
     <SUITE FILE_PATH="coverage/python_basics$tuples_sets_booleans.coverage" NAME="tuples_sets_booleans Coverage Results" MODIFIED="1585861081021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py-level-one" />
     <SUITE FILE_PATH="coverage/python_basics$functions.coverage" NAME="functions Coverage Results" MODIFIED="1585930114838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/py-level-one" />
   </component>
@@ -346,6 +357,9 @@
     <entry file="file://$PROJECT_DIR$/src/py-level-one/lists.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/py-level-one/strings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/py-level-one/data-type-exercise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -353,27 +367,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/py-level-one/strings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/py-level-one/functions.py">
+    <entry file="file://$PROJECT_DIR$/src/py-level-one/control-flow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+        <state relative-caret-position="1547">
+          <caret line="91" column="38" selection-start-line="91" selection-start-column="38" selection-end-line="91" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/py-level-one/control-flow.py">
+    <entry file="file://$PROJECT_DIR$/src/py-level-one/functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="906">
-          <caret line="91" column="38" selection-start-line="91" selection-start-column="38" selection-end-line="91" selection-end-column="38" />
+        <state relative-caret-position="816">
+          <caret line="48" column="54" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/py-level-one/function-exercise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="116" column="27" selection-start-line="116" selection-start-column="27" selection-end-line="116" selection-end-column="27" />
+        <state relative-caret-position="2669">
+          <caret line="157" column="17" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/py-level-one/codebreaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
